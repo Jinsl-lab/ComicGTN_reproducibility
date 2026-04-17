@@ -1,5 +1,5 @@
 ## Download data
-All datasets involved in the scripts have been organized and can be downloaded from the following dropbox source:
+All datasets involved in the scripts have been organized in dropbox and can be downloaded from the following source:
 * [BMMC multi-omics dataset](https://www.dropbox.com/scl/fo/adp6dn1cb6ew1uisjouxa/AE3us4kh6jknpIwY0w9Y7Uc?rlkey=hc98w6t1pvm6622ywfjzynfrz&st=wozwwb3k&dl=0)
 * [Mouse kidney multi-omics dataset](https://openproblems.bio/datasets/openproblems_v1_multimodal/scicar_mouse_kidney)
 * [T-depleted BMMC multi-omics dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200046)
